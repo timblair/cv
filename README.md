@@ -69,6 +69,13 @@ Britain at both European and world-level competition.
   architected and project managed the work which was completed in 6 weeks with
   zero impact on end users and application uptime.
 
+* **PCI-compliant payment processing**: Designed and helped build a new payment
+  application for processing all new card transactions that could be sandboxed
+  for PCI DSS 3 compliance. Also played a key role in the preparation for the
+  compliance assessment, including drafting and publishing our team development
+  standards for code, code review and application security, and through liasing
+  with external penetration testers.
+
 ## Work History
 
 #### Global Personals (2008–present)
