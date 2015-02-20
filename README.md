@@ -73,8 +73,8 @@ Britain at both European and world-level competition.
   application for processing all new card transactions that could be sandboxed
   for PCI DSS 3 compliance. Also played a key role in the preparation for the
   compliance assessment, including drafting and publishing our team development
-  standards for code, code review and application security, and through liasing
-  with external penetration testers.
+  standards for code, code review and application security, and through
+  liaising with external penetration testers.
 
 ## Work History
 
