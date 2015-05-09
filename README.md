@@ -96,23 +96,23 @@ management level throughout my time at GP, constantly liaising with other
 departments and senior managers in terms of planning company strategy and
 direction.
 
-###### Technical Product Owner (2013—present)
-
-* After the change to an agile development process, I have taken on a Product
-  Owner (PO) role, working with the CTO and one other PO to liaise with the
-  rest of the business and manage the backlog of work for the Scrum teams.
-* Part of a small team that spearheaded the agile transformation of the
-  45-person development team, moving from traditional waterfall to a Scrum
-  process, with 4 cross-functional teams of between 6-10 working in sprints of
-  two weeks.
-
-###### Platform Architect (2012–2013)
+###### Platform Architect (2012–present)
 
 * Longer-term planning for the WLD platform, including involvement at Board
   level in defining and agreeing the changes required and the business
   implications.
 * Also heavily involved in the day-to-day development of the platform, both
   from a code perspective, and giving guidance in terms of direction.
+
+###### Technical Product Owner (2013—2015)
+
+* After the change to an agile development process, I took on a Product Owner
+  (PO) role, working with the CTO and one other PO to liaise with the rest of
+  the business and manage the backlog of work for the Scrum teams.
+* Part of a small team that spearheaded the agile transformation of the
+  45-person development team, moving from traditional waterfall to a Scrum
+  process, with 4 cross-functional teams of between 6-10 working in sprints of
+  two weeks.
 
 ###### Head of Engineering (2010-2012)
 
