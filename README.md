@@ -174,11 +174,6 @@ WhiteLabelDating was also developed during my time at Rawnet.
   documents](http://www.scribd.com/doc/89031105/Hack-Day-Proposal) to help
   others run their own hack days.
 
-* **CodeClubPro**: An accredited trainer for CodeClubPro, which is a
-  not-for-profit intiative set up to help train primary school teachers on the
-  subject matter of the new Computing Curriculum that's being introducted as of
-  September 2014.
-
 ## Education
 
 * **1997-2002**: MEng (Hons) Software Engineering, Aberystwyth University
