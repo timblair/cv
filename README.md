@@ -15,12 +15,13 @@ manager, focussing on marrying development best-practices with the business
 goals of the project in hand.  I also have experience working at senior
 management level, including elements of strategic planning.  
 
-I have a passion for ensuring that developers are working as effectively and
-efficiently as possible, as well as constantly learning.  I have organised and
-run hack days and tech talks, and this interest also extends to teaching
-outside the work environment: I have recently become an accredited trainer for
-CodeClubPro, which exists to assist primary school teachers in learning the new
-Computing Curriculum to be taught in schools from September 2014.
+The languages I have spent most time with over the past few years are Ruby and
+ColdFusion, but during that time I have also spent time using Perl, Java and
+JavaScript, and am generally happy learning and working with any imperative
+language. I have plenty of experience working with MySQL and Redis as
+datastores, memcached for application caching, and RabbitMQ for messaging and
+job-processing systems. I have recently been spending time investigating Go as
+a system language, and have a strong interest in using it further.
 
 I am a keen sportsman: in 2013 I took part in a 2-day race across Scotland on
 foot and by bike to raise money for Epilepsy Research UK, and have competed at
