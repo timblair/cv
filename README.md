@@ -79,25 +79,25 @@ Britain at both European and world-level competition.
 
 ## Work History
 
-#### Global Personals (2008–present)
+#### Venntro (2008–present)
 
-Over the last decade — incorporating roles at both Global Personals (GP) and
-Rawnet — I have built and scaled a multitenant white-label online dating
-platform that currently supports 14,500 sites across 4 continents, with
-revenues of £50m/year, and a new user signing up every 3.5 seconds.
+Over the last decade — incorporating roles at both Venntro and Rawnet — I have
+built and scaled a multitenant white-label online dating platform that
+currently supports 14,500 sites across 4 continents, with revenues of
+£50m/year, and a new user signing up every 3.5 seconds.
 
-The core business of GP is the WLD platform.  I wrote the first lines of code
-for the platform, and have been overseeing the platform's growth ever since.
-My role at GP has changed over the years, but I've always led the platform
-architecture, and play a lead role in the management of the development
-department (currently 45 people).
+The core business of Venntro is the WLD platform.  I wrote the first lines of
+code for the platform, and have been overseeing the platform's growth ever
+since.  My role at Venntro has changed over the years, but I've always led the
+platform architecture, and play a lead role in the management of the
+development department (currently 45 people).
 
 In addition to development-related activities, I have worked at a senior
-management level throughout my time at GP, constantly liaising with other
+management level throughout my time at Venntro, constantly liaising with other
 departments and senior managers in terms of planning company strategy and
 direction.
 
-###### Platform Architect (2012–present)
+##### Platform Architect (2012–present)
 
 * Longer-term planning for the WLD platform, including involvement at Board
   level in defining and agreeing the changes required and the business
@@ -105,7 +105,7 @@ direction.
 * Also heavily involved in the day-to-day development of the platform, both
   from a code perspective, and giving guidance in terms of direction.
 
-###### Technical Product Owner (2013—2015)
+##### Technical Product Owner (2013—2015)
 
 * After the change to an agile development process, I took on a Product Owner
   (PO) role, working with the CTO and one other PO to liaise with the rest of
@@ -115,7 +115,7 @@ direction.
   process, with 4 cross-functional teams of between 6-10 working in sprints of
   two weeks.
 
-###### Head of Engineering (2010-2012)
+##### Head of Engineering (2010-2012)
 
 * Direct line management responsibilies for a team of 5 Ruby engineers,
   focussing on the back-end systems of the WLD platform.
@@ -123,7 +123,7 @@ direction.
   Redis) and creating an SOA service layer on which the WLD mobile application
   was built.
 
-###### Lead Developer (2008-2010)
+##### Lead Developer (2008-2010)
 
 * Day-to-day development work in both ColdFusion and Ruby, enhancing and
   supporting the WLD platform.
@@ -141,13 +141,13 @@ worked building custom web sites and application for clients such as SciDev,
 Williams F1, Guards Polo Club and Go Ape.  The initial implementation of
 WhiteLabelDating was also developed during my time at Rawnet.
 
-###### Technical Director (2007-2008)
+##### Technical Director (2007-2008)
 
 * Managed a team of 5 developers from junior through to senior levels.
 * Oversaw application development and server infrastructure throughout the
   company, including development practices and processes.
 
-###### Lead Developer (2002-2007)
+##### Lead Developer (2002-2007)
 
 * Lead contributor to a large number and range of client projects, from small
   websites through to large, custom business-process applications.
@@ -165,15 +165,14 @@ WhiteLabelDating was also developed during my time at Rawnet.
   and 9, which were weekend-long unconferences for over 300 people.
 
 * **Tech Talks**: Initiated and ran a series of monthly brown-bag style tech
-  talks at Global Personals for the past 2.5 years, including personally giving
-  talks, such as [Git 102](http://teajay.be/git-102).
+  talks at Venntro for the past few years, including personally giving talks,
+  such as [Git 102](http://teajay.be/git-102).
 
-* **Hack Days**: Planned and ran two internal hack days at Global Personals,
-  leading to a number of new and innovative features being added to the WLD
-  platform.  Also created [blog posts](http://teajay.be/how-to-run-a-hack-day)
-  and [proposal
-  documents](http://www.scribd.com/doc/89031105/Hack-Day-Proposal) to help
-  others run their own hack days.
+* **Hack Days**: Planned and ran three internal hack days at Venntro, leading
+  to a number of new and innovative features being added to the WLD platform.
+  Also created [blog posts](http://teajay.be/how-to-run-a-hack-day) and
+  [proposal documents](http://www.scribd.com/doc/89031105/Hack-Day-Proposal) to
+  help others run their own hack days.
 
 ## Education
 
