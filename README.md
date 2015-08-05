@@ -79,7 +79,7 @@ Britain at both European and world-level competition.
 
 ## Work History
 
-#### Venntro (2008–present)
+#### Venntro _(was Global Personals)_ (2008–present)
 
 Over the last decade — incorporating roles at both Venntro and Rawnet — I have
 built and scaled a multitenant white-label online dating platform that
