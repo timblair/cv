@@ -166,13 +166,25 @@ WhiteLabelDating was also developed during my time at Rawnet.
 
 * **Tech Talks**: Initiated and ran a series of monthly brown-bag style tech
   talks at Venntro for the past few years, including personally giving talks,
-  such as [Git 102](http://teajay.be/git-102).
+  such as [Git 102](http://teajay.be/git-102) and [An Introduction to
+  Go](http://teajay.be/an-introduction-to-go).
 
 * **Hack Days**: Planned and ran three internal hack days at Venntro, leading
   to a number of new and innovative features being added to the WLD platform.
   Also created [blog posts](http://teajay.be/how-to-run-a-hack-day) and
   [proposal documents](http://www.scribd.com/doc/89031105/Hack-Day-Proposal) to
   help others run their own hack days.
+
+* **Go Workshop**: Created and ran a 4-hour workshop for a dozen people to
+  introduce the Go programming language.  The [workshop
+  material](https://www.gitbook.com/book/timblair/go-102/details) has been
+  released as open source, allowing others to run their own workshops.
+
+* **GoBridge Community Ambassador**: Following on from the workshop above, was
+  asked to join [GoBridge](http://golangbridge.org/) — an organisation set up
+  to promote and teach the use of Go to underrepresented groups in tech — as a
+  Community Ambassador, tasked with managing and growing the community outreach
+  initiatives.
 
 ## Education
 
