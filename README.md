@@ -10,10 +10,10 @@
 I am a generalist developer and web architect with experience of every aspect
 of large-scale web-based application development and planning, from initial
 concept, application architecture and development, through to the operational
-concerns of datastores and hosting platforms.  Also a strong team leader and
-manager, focussing on marrying development best-practices with the business
-goals of the project in hand.  I also have experience working at senior
-management level, including elements of strategic planning.  
+concerns of datastores and hosting platforms.  Also a strong team leader,
+focussing on marrying development best-practices with the business goals of the
+project in hand.  I also have experience working at senior management level,
+including elements of strategic planning.  
 
 The languages I have spent most time with over the past few years are Ruby and
 ColdFusion, but during that time I have also spent time using Perl, Java and
