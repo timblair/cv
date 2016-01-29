@@ -11,7 +11,7 @@ I am a generalist developer and web architect with experience of every aspect
 of large-scale web-based application development and planning, from initial
 concept, application architecture and development, through to the operational
 concerns of datastores and hosting platforms.  Also a strong team leader,
-focussing on marrying development best-practices with the business goals of the
+focusing on marrying development best-practices with the business goals of the
 project in hand.  I also have experience working at senior management level,
 including elements of strategic planning.  
 
@@ -56,7 +56,7 @@ Britain at both European and world-level competition.
 
 * **RabbitMQ-based email pipeline**: Architected and worked with a small team
   to build a Ruby and RabbitMQ-based pipeline for rendering and sending emails
-  for the WLD platform.  At peak, this was sending in excess of 20m emails per
+  for the WLD platform.  At peak, this was sending in excess of 20M emails per
   day.
 
 * **Event platform**: Introduced a RabbitMQ-based events stream to the WLD
@@ -83,14 +83,14 @@ Britain at both European and world-level competition.
 
 Over the last decade — incorporating roles at both Venntro and Rawnet — I have
 built and scaled a multitenant white-label online dating platform that
-currently supports 14,500 sites across 4 continents, with revenues of
-£50m/year, and a new user signing up every 3.5 seconds.
+currently supports 25,000 sites across 4 continents, with revenues of
+£50M/year, and a new user signing up every 3.5 seconds.
 
 The core business of Venntro is the WLD platform.  I wrote the first lines of
 code for the platform, and have been overseeing the platform's growth ever
 since.  My role at Venntro has changed over the years, but I've always led the
 platform architecture, and play a lead role in the management of the
-development department (currently 45 people).
+development department (currently 38 people).
 
 In addition to development-related activities, I have worked at a senior
 management level throughout my time at Venntro, constantly liaising with other
@@ -117,9 +117,9 @@ direction.
 
 ##### Head of Engineering (2010-2012)
 
-* Direct line management responsibilies for a team of 5 Ruby engineers,
-  focussing on the back-end systems of the WLD platform.
-* Work focussed primarily around background tasks (utilising RabbitMQ and
+* Direct line management responsibilities for a team of 5 Ruby engineers,
+  focusing on the back-end systems of the WLD platform.
+* Work focused primarily around background tasks (utilising RabbitMQ and
   Redis) and creating an SOA service layer on which the WLD mobile application
   was built.
 
