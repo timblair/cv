@@ -7,48 +7,92 @@
 
 ## Personal Profile
 
-I am a generalist developer and web architect with experience of every aspect
-of large-scale web-based application development and planning, from initial
-concept, application architecture and development, through to the operational
-concerns of datastores and hosting platforms.  Also a strong team leader,
-focusing on marrying development best-practices with the business goals of the
-project in hand.  I also have experience working at senior management level,
-including elements of strategic planning.  
+I am a senior software architect with broad experience of every aspect of
+large-scale web-based application strategy, planning, development, and
+maintenance. I have defined and delivered high-level strategic and technical
+roadmaps for programmes of work, leading teams to deliver effective solutions.
 
-The languages I have spent most time with over the past few years are Ruby and
-ColdFusion, but during that time I have also spent time using Perl, Java and
-JavaScript, and am generally happy learning and working with any imperative
-language. I have plenty of experience working with MySQL and Redis as
-datastores, memcached for application caching, and RabbitMQ for messaging and
-job-processing systems. I have recently been spending time investigating Go as
-a system language, and have a strong interest in using it further.
+I have worked in a product owner role, and have an excellent understanding of
+the interplay between technical and product to produce solutions in line with,
+or exceeding users' needs, and am comfortable communicating and translating
+between technical and non-technical audiences.
 
-I am a keen sportsman: in 2013 I took part in a 2-day race across Scotland on
-foot and by bike to raise money for Epilepsy Research UK, and have competed at
-the highest level at the sport of Ultimate Frisbee, by representing Great
-Britain at both European and world-level competition.
+## Work History
 
-## Technologies and Skills
+#### Lead Technical Architect at GDS (2016–present)
 
-* Ruby, ColdFusion, Perl, JavaScript, Java
-* MySQL, Redis, Sphinx, memcached, RabbitMQ
-* HTTP and HTTP-based APIs, JSON, XML, SOA
-* Apache, nginx, Passenger, Heroku
-* Software architecture
-* Team leadership, team development and communication
-* Agile development methodologies, Kanban, Scrum
+After joining GDS as a Technical Architect in 2016, I quickly moved in to the
+position of Lead Technical Architect for the GOV.UK programme on an interim
+basis, to lead the technical work of maintaining the high quality bar of GOV.UK
+as the UK governments flagship, award-winning website. My role has included:
 
-## Project Examples
+* Leading a team of four senior technologists (Technical Architects and Lead
+  Developers) to guide and support the forty technologists working on the
+  GOV.UK programme to ensure the continued delivery of the development work
+  required to support and improve.
 
-* **WhiteLabelDating**: Designed, built and supported the WhiteLabelDating
-  (WLD) platform from the ground up: a multi-tenant online dating application
-  which now supports 14,500 sites with revenues in excess of £50m/year, and
-  with a 180-person company grown alongside to support it.  The core platform
-  is based on ColdFusion, with a series of supporting Ruby applications and
-  background processes.
+* Setting architectural goals, and defining the technical and platform strategy
+  to allow GOV.UK to continue to meet the changing demands of both government
+  and citizens.
 
-* **WLD mobile web application**: Designed, project managed and — working with
-  a team of 15 — created a new mobile web application and service layer for
+* Maintaining and improving the security of GOV.UK by increasing awareness of
+  security concerns and risks, including setting up a regular schedule of
+  application and infrastructure penetration tests, and by working with other
+  departments to trial a form of intelligence-led testing new to government.
+
+* Managing technical and information risks, including lead roles in GDPR
+  readiness preparations, and ongoing information assurance issues.
+
+* Responsibility for managing and reducing the large levels of technical debt
+  that had accumulated within GOV.UK during the initial build phase.
+
+* Working with lead delivery and product managers to identify the technical
+  requirements of the product and delivery roadmaps, while maintaining a strong
+  focus on the user needs of the platform. Defining project mission scopes,
+  objectives, and team makeups, and supporting those teams throughout the
+  delivery process.
+
+* Supporting the Technical Architecture community within GDS at a time when
+  there was no Head of Community in position, ensuring that communication
+  across GDS remained efficient, that programmes were effectively resourced,
+  and that recruitment of new architects continued.
+
+* Defining consistent cross-organisation patterns, tools, and processes for use
+  by GDS teams when building and operating services. Responsible for ensuring
+  GOV.UK adoption of these standardised practices.
+
+* Taking ownership of undersupported parts of GOV.UK such as Licensing, setting
+  up a maintenance programme, while leading the architecture work of the
+  Discovery and Alpha phases of a potential replacement. This led to a need to
+  convince senior GDS management that Licensing wasn't a service that GOV.UK
+  (or GDS) should continue to provide. Transition of the functions of the
+  service to other central and local government departments is in progress.
+
+* Engaging with cross-government leaders on technical decisions which affect
+  departments and users outside of GOV.UK's direct remit, such as working
+  towards the retirement of TLS 1.0/1.1, and on setting cross-government
+  standards, such as the API technical and data standards.
+
+
+#### Venntro _(was Global Personals)_ (2008–2016)
+
+Throughout my time at Venntro, I moved through three different roles: lead
+developer, technical product owner, and technical architect. Throughout all
+roles, I lead the development of the White Label Dating platform, including
+setting technical direction, supporting developers, and ensuring the
+availability and security of the platform.  I also worked at a senior
+management level throughout my time at Venntro, constantly liaising with other
+departments and senior managers in terms of planning company strategy and
+direction.
+
+* **WhiteLabelDating**: Lead the design and build of the WhiteLabelDating (WLD)
+  platform from the ground up: a multi-tenant online dating application which
+  supported 25,000 sites, a new member signing up every 3.5 seconds, with
+  revenues in excess of £50m/year, and with a 180-person company grown
+  alongside to support it.
+
+* **WLD mobile web application**: Architected, project managed and — working
+  with a team of 15 — built a new mobile web application and service layer for
   WLD.  Created a SOA-based architecture, build on top of a REST API exposing
   business logic from the core ColdFusion WLD application.  The stack consisted
   of 4 Ruby-based services, communicating via HTTP and JSON, with a Node.js
@@ -67,124 +111,38 @@ Britain at both European and world-level competition.
 
 * **Payment gateway switch**: Given 8 weeks to switch processing of
   approximately 10,000 daily transactions to another payment gateway,
-  architected and project managed the work which was completed in 6 weeks with
-  zero impact on end users and application uptime.
+  architected and managed the work which was completed in 6 weeks with zero
+  impact on end users and application uptime.
 
 * **PCI-compliant payment processing**: Designed and helped build a new payment
-  application for processing all new card transactions that could be sandboxed
-  for PCI DSS 3 compliance. Also played a key role in the preparation for the
+  system for processing all new card transactions that could be sandboxed for
+  PCI DSS 3 compliance.  Played a key role in the preparation for the
   compliance assessment, including drafting and publishing our team development
-  standards for code, code review and application security, and through
+  standards for code, code review, and application security, and through
   liaising with external penetration testers.
 
-## Work History
+* **Agile transformation**: Part of a small team that spearheaded the agile
+  transformation of the 45-person development team, moving from traditional
+  waterfall to a Scrum process, with 4 cross-functional teams of between 6-10
+  working in sprints of two weeks.  After the change, I took on a Product Owner
+  (PO) role for around 15 months, working with the CTO and one other PO to
+  liaise with the rest of the business and manage the backlog of work for the
+  Scrum teams.
 
-#### Venntro _(was Global Personals)_ (2008–present)
-
-Over the last decade — incorporating roles at both Venntro and Rawnet — I have
-built and scaled a multitenant white-label online dating platform that
-currently supports 25,000 sites across 4 continents, with revenues of
-£50M/year, and a new user signing up every 3.5 seconds.
-
-The core business of Venntro is the WLD platform.  I wrote the first lines of
-code for the platform, and have been overseeing the platform's growth ever
-since.  My role at Venntro has changed over the years, but I've always led the
-platform architecture, and play a lead role in the management of the
-development department (currently 38 people).
-
-In addition to development-related activities, I have worked at a senior
-management level throughout my time at Venntro, constantly liaising with other
-departments and senior managers in terms of planning company strategy and
-direction.
-
-##### Platform Architect (2012–present)
-
-* Longer-term planning for the WLD platform, including involvement at Board
-  level in defining and agreeing the changes required and the business
-  implications.
-* Also heavily involved in the day-to-day development of the platform, both
-  from a code perspective, and giving guidance in terms of direction.
-
-##### Technical Product Owner (2013—2015)
-
-* After the change to an agile development process, I took on a Product Owner
-  (PO) role, working with the CTO and one other PO to liaise with the rest of
-  the business and manage the backlog of work for the Scrum teams.
-* Part of a small team that spearheaded the agile transformation of the
-  45-person development team, moving from traditional waterfall to a Scrum
-  process, with 4 cross-functional teams of between 6-10 working in sprints of
-  two weeks.
-
-##### Head of Engineering (2010-2012)
-
-* Direct line management responsibilities for a team of 5 Ruby engineers,
-  focusing on the back-end systems of the WLD platform.
-* Work focused primarily around background tasks (utilising RabbitMQ and
-  Redis) and creating an SOA service layer on which the WLD mobile application
-  was built.
-
-##### Lead Developer (2008-2010)
-
-* Day-to-day development work in both ColdFusion and Ruby, enhancing and
-  supporting the WLD platform.
-* Created a REST API on top of the existing ColdFusion business platform,
-  including creating an [open-sourced
-  framework](https://github.com/timblair/restfulcf).
-* Led the team who built a completely new user interface layer, including both
-  back-end and front-end development, and migrated several thousand sites from
-  the old interface.
-
-#### Rawnet (2002–2008)
+#### Lead Developer at Rawnet (2002–2008)
 
 Rawnet is a web agency based in Berkshire.  I joined as the first employee and
-worked building custom web sites and application for clients such as SciDev,
-Williams F1, Guards Polo Club and Go Ape.  The initial implementation of
-WhiteLabelDating was also developed during my time at Rawnet.
+lead developer, and worked building custom websites and application for clients
+such as SciDev, Williams F1, Guards Polo Club and Go Ape.
 
-##### Technical Director (2007-2008)
-
-* Managed a team of 5 developers from junior through to senior levels.
-* Oversaw application development and server infrastructure throughout the
-  company, including development practices and processes.
-
-##### Lead Developer (2002-2007)
-
-* Lead contributor to a large number and range of client projects, from small
+* Lead development in a large number and range of client projects, from small
   websites through to large, custom business-process applications.
+* Led application development and server infrastructure throughout the company,
+  including development practices and processes.
+* Managed a team of 5 developers from junior through to senior levels.
 * Attended and fully contributed to client meetings, and regularly saw projects
   from initial pitch through to final delivery, as well as providing ongoing
   support and customer client management.
-* Developed two versions of a presentation management software system (the
-  first using Flex, the second using Ajax-based techniques: cutting-edge at the
-  time) which was used by large and international companies such as Centrica,
-  Honda, Canon and the Lawn Tennis Association.
-
-## Community
-
-* **BarCamp London**: Part of the team that planned and ran BarCamp London 8
-  and 9, which were weekend-long unconferences for over 300 people.
-
-* **Tech Talks**: Initiated and ran a series of monthly brown-bag style tech
-  talks at Venntro for the past few years, including personally giving talks,
-  such as [Git 102](http://teajay.be/git-102) and [An Introduction to
-  Go](http://teajay.be/an-introduction-to-go).
-
-* **Hack Days**: Planned and ran three internal hack days at Venntro, leading
-  to a number of new and innovative features being added to the WLD platform.
-  Also created [blog posts](http://teajay.be/how-to-run-a-hack-day) and
-  [proposal documents](http://www.scribd.com/doc/89031105/Hack-Day-Proposal) to
-  help others run their own hack days.
-
-* **Go Workshop**: Created and ran a 4-hour workshop for a dozen people to
-  introduce the Go programming language.  The [workshop
-  material](https://www.gitbook.com/book/timblair/go-102/details) has been
-  released as open source, allowing others to run their own workshops.
-
-* **GoBridge Community Ambassador**: Following on from the workshop above, was
-  asked to join [GoBridge](http://golangbridge.org/) — an organisation set up
-  to promote and teach the use of Go to underrepresented groups in tech — as a
-  Community Ambassador, tasked with managing and growing the community outreach
-  initiatives.
 
 ## Education
 
